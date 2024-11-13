@@ -1,0 +1,7 @@
+selenium==4.11.2  # or the specific version you're using
+chromedriver-autoinstaller==0.6.4  # or the highest available version if you are using this for automatic ChromeDriver management
+beautifulsoup4==4.12.2  # if you are using BeautifulSoup for parsing
+lxml==4.9.3  # if you are using lxml as a parser with BeautifulSoup
+requests==2.31.0  # if your project involves making HTTP requests
+pytest==7.4.2  # if you are using pytest for testing your Selenium scripts
+openpyxl==3.1.2  # Replace with the version you are using or the latest available version
