@@ -54,7 +54,7 @@ input("Scan the QR code and then press Enter")
 # Keep a nice gap between successive messages
 # Use Keys.SHIFT + Keys.ENTER to give a new line effect in your Message
 msgToSend = [
-                [12, 32, 0, "Hello! This is test Msg. Please Ignore." + Keys.SHIFT + Keys.ENTER + "http://bit.ly/mogjm05"]
+                [12, 32, 0, "Hello! This is test Msg. Please Ignore." + Keys.SHIFT + Keys.ENTER + Keys.SHIFT + Keys.ENTER + "Follow https://github.com/SartHak-0-Sach"]
             ]
 
 # Count variable to identify the number of messages to be sent
